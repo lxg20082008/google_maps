@@ -1,10 +1,12 @@
 {
   "domain": "google_maps",
-  "name": "Google Maps",
+  "name": "\u767E\u5EA6\u5730\u56FE",
   "version": "2025.10.0",
   "codeowners": ["@lxg20082008"],
+  "config_flow": true,
   "documentation": "https://github.com/lxg20082008/google_maps",
   "requirements": [],
-  "dependencies": [],
-  "iot_class": "cloud_polling"
+  "dependencies": ["frontend"],
+  "iot_class": "cloud_polling",
+  "quality_scale": "internal"
 }
