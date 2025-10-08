@@ -1,6 +1,6 @@
 {
   "domain": "google_maps",
-  "name": "\u767E\u5EA6\u5730\u56FEnew",
+  "name": "百度地图new",
   "version": "2025.10.0",
   "codeowners": ["@lxg20082008"],
   "config_flow": true,
@@ -8,5 +8,6 @@
   "requirements": [],
   "dependencies": ["frontend"],
   "iot_class": "cloud_polling",
-  "quality_scale": "internal"
+  "quality_scale": "internal",
+  "homeassistant": "2024.5.0"  // 添加这行，指定最低 HA 版本
 }
