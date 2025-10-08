@@ -1,6 +1,6 @@
 {
   "domain": "google_maps",
-  "name": "\u767E\u5EA6\u5730\u56FE",
+  "name": "\u767E\u5EA6\u5730\u56FEnew",
   "version": "2025.10.0",
   "codeowners": ["@lxg20082008"],
   "config_flow": true,
