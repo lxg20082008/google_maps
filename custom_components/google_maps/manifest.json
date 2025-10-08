@@ -9,5 +9,5 @@
   "dependencies": ["frontend"],
   "iot_class": "cloud_polling",
   "quality_scale": "internal",
-  "homeassistant": "2024.5.0"  // 添加这行，指定最低 HA 版本
+  "homeassistant": "2024.5.0"
 }
