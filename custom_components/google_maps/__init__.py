@@ -1,3 +1,9 @@
+"""Google Maps integration."""
+__version__ = "2025.10.0"
+
+import asyncio
+import logging
+
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
 import homeassistant.helpers.config_validation as cv
